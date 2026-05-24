@@ -1,6 +1,4 @@
-#BANCO DE PROBLEMAS DE PROGRAMACION #5
 #MATRIZ:
-#[Nombre, Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo]
 recursos = [
     ["Paula", 7, 8, 5, 10, 6, 4, 3],
     ["Juliana", 5, 6, 7, 8, 9, 10, 11],
